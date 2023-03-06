@@ -1,7 +1,7 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
+    title : "Nobody" # Title Text
     description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
     button:
       text: "Learn More" # Button Text
@@ -16,17 +16,17 @@ about:
     text: "Button"
     url: "#"
   image: "assets/img/ipad.png"
-
-projects:
+# Services
+services:
   card1:
-    title: "Graysx"
+    title: "Nobody"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
     img: "assets/img/bg-masthead.jpg"
   card2:
-    title: "Graysx"
+    title: "Nowhere"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
     img: "assets/img/demo-image-01.jpg"
   card3:
-    title: "Graysx"
+    title: "Nothing"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
     img: "assets/img/demo-image-02.jpg"
