@@ -4,3 +4,6 @@
 [submodule "themes/graysx-hugo"]
 	path = themes/graysx-hugo
 	url = https://github.com/akatiggerx04/graysx-hugo
+[submodule "graysx-hugo-nobody"]
+	path = graysx-hugo-nobody
+	url = https://github.com/nobodymoment/graysx-hugo-nobody.git
