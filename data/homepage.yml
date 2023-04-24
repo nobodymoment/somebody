@@ -1,11 +1,12 @@
 # Main Title
 main:
   header:
-    title : "Test" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "All Systems Work" # Title Text
+    description : "—Claude Levi-Strauss" # Title Desc
+    description2 : "Ziji knows that all systems work and that enhanced systems yield growth" # Title Desc
     button:
       text: "Learn More" # Button Text
-      url: "#about" # Button URL
+      url: "#about" # Button RL
 
 # About
 about:
@@ -14,7 +15,7 @@ about:
   button:
     enable: true
     text: "Button"
-    url: "#"
+    url: "#services"
   image: "assets/img/ipad.png"
 # Services
 services:
